@@ -17,7 +17,7 @@ export const memories: Memory[] = [
     label: "ISSUE #001",
     stamp: "CANON EVENT 🕷️",
     location: "SCREENSHOT // MISSION CONTROL",
-    note: "Some friendships start with a pose and never stop performing. This was one of those perfectly unplanned moments — two faces on a laptop screen, hands framing faces, and laughter that completely derailed whatever we were supposed to be studying. The kind of memory that makes you smile every single time you see it.",
+    note: "Knew it was going to be a goated friendship because this is the first picture we have together",
     layout: "left",
   },
   {
@@ -26,8 +26,8 @@ export const memories: Memory[] = [
     title: "Thumbs Up to the Multiverse",
     label: "MEMORY UNLOCKED",
     stamp: "DYNAMIC DUO ⚡",
-    location: "AUDITORIUM // CONVOCATION ARCHIVES",
-    note: "Surrounded by hundreds of seats and endless commotion, but somehow we always manage to tune everything out. Matching glasses, lanyards in place, and a collective thumbs-up to whatever chaos college decided to throw at us next. Having you by my side makes even the longest speeches bearable.",
+    location: "AUDITORIUM // FEST ARCHIVES",
+    note: "Idk its a cutie pic of us at AARUUSH",
     layout: "right",
   },
   {
@@ -37,7 +37,7 @@ export const memories: Memory[] = [
     label: "CLASSIFIED FILE",
     stamp: "CORE MEMORY ❤️",
     location: "BIRTHDAY EVE // SECTOR 7",
-    note: "Golden birthday banners in the background, fairy lights casting a warm glow, and a hug so genuine and tight that no camera could ever do it justice. Some moments don't need a thousand words — they just need two best friends celebrating another year of survival, laughter, and unbreakable loyalty.",
+    note: "I just love annoying you and while going through our pics, this one may be my fav",
     layout: "full",
   },
   {
@@ -47,7 +47,7 @@ export const memories: Memory[] = [
     label: "ISSUE #004",
     stamp: "EXPEDITION 🌊",
     location: "MARINA SHORES // EARTH-616",
-    note: "Sand between our toes, the salty ocean breeze messing up our hair, and two people who couldn't pose normally even if our lives depended on it. Beach trips with you are never just about the view — they're about the endless conversations, the splashed water, and the feeling that time stands still.",
+    note: "I was giving diva in this one so it shld be here lol",
     layout: "overlap-left",
   },
   {
@@ -57,7 +57,7 @@ export const memories: Memory[] = [
     label: "EVIDENCE FILE",
     stamp: "UNFILTERED CHAOS 🃏",
     location: "HOSTEL DORM // NIGHT SHIFT",
-    note: "Playing cards tucked straight into spectacle frames, phone in hand, and laughing until our stomachs hurt. Only you could take an ordinary deck of cards and turn a random dorm evening into an absolute comedy special. This photograph is pure, unfiltered, peak Shreyanka energy.",
+    note: "Idk wtf you were trying to do here. But also i miss playing hours and hours of rummy right before endsems",
     layout: "right",
   },
   {
@@ -67,7 +67,7 @@ export const memories: Memory[] = [
     label: "ISSUE #006",
     stamp: "PLOT TWIST 💥",
     location: "COASTAL HORIZON // FILE 06",
-    note: "The sky behind us, the wind blowing wild, and expressions straight out of a vintage Marvel comic panel. This is what happens every single time we attempt to take a 'decent, aesthetic picture' and immediately choose chaos instead. Normal is overrated anyway — this is where the real memories live.",
+    note: "This is the start of 'we absolutely cannot take a normal pic together' ",
     layout: "left",
   },
   {
@@ -77,7 +77,7 @@ export const memories: Memory[] = [
     label: "CLASSIFIED FILE",
     stamp: "ACADEMIC GRIND 📚",
     location: "ROOM 402 // SURVIVAL LOG",
-    note: "Classroom selfies hit completely differently when you're sitting next to your favourite person. Somewhere between dense slideshows, heavy lectures, and clock-watching, we always found a way to share a silent inside joke and a confident thumbs-up. We made the grind genuinely fun.",
+    note: "We did a hackathon, and won! can we please do more, gotta update the resume",
     layout: "overlap-right",
   },
   {
@@ -87,7 +87,7 @@ export const memories: Memory[] = [
     label: "MEMORY UNLOCKED",
     stamp: "HERO ALLIANCE 🎯",
     location: "CAMPUS GROUNDS // MID-DAY MISSION",
-    note: "Backpacks strapped on, campus bustling behind us, and that trademark look that says 'we survived another round.' Walking these paths wouldn't have been half as memorable or half as funny without our daily debriefs, tea runs, and mutual commentary on everything under the sun.",
+    note: "we cannot take a normal pic part 1037267",
     layout: "left",
   },
   {
@@ -97,7 +97,7 @@ export const memories: Memory[] = [
     label: "ISSUE #009",
     stamp: "TRANSIT LOG 🍦",
     location: "PLATFORM 1 // LAZZA DEPOT",
-    note: "Standing under the railway shed next to a Lazza ice cream board, one of us mid-call and the other making faces at the camera. Some of our best memories aren't the planned vacations — they're the spontaneous transit waits, train delays, and the little shared laughs along the journey.",
+    note: "Maybe now youll start giving me the attention that i deserve",
     layout: "right",
   },
   {
@@ -107,7 +107,7 @@ export const memories: Memory[] = [
     label: "SPECIAL EDITION",
     stamp: "TRAVEL ARCHIVE 🚆",
     location: "TRAIN 12623 // MULTIVERSE EXPRESS",
-    note: "Tucked inside an Indian Railways berth, earphones plugged in, stretching out after hours on the tracks. Traveling together is always an adventure — from sharing snacks to deep midnight philosophical talks and impromptu photo sessions that capture the quiet comfort of true friendship.",
+    note: "I miss the mozarella sticks, ab treat do itna mehnat kiya hai",
     layout: "full",
   },
   {
@@ -117,22 +117,21 @@ export const memories: Memory[] = [
     label: "COVER STORY",
     stamp: "CANON FINALE 👑",
     location: "TIMELINE PRIME // THE PROTAGONIST",
-    note: "Every epic comic saga has a central hero, and in our story, you are undeniably the main character. Draped in black and silver, radiating elegance, poise, and quiet strength. Behind all the goofy antics and laughter is someone truly exceptional, brilliant, and deeply cherished by everyone lucky enough to know you.",
+    note: "Oh but also, you will always be my main diva. idk when this divafication happened but damn.",
     layout: "overlap-left",
   },
 ];
 
 export const birthdayLetter = `Dear Shreyanka,
 
-If the multiverse is real, then I'm pretty sure I got lucky in this one — because I ended up in the timeline where I get to call you my friend.
+If the Marvel universe has taught me anything, it's that every universe has its own heroes. Some can swing between skyscrapers, some can save the world, and some just make life a whole lot better by being in it. You're definitely the last one.
 
-You're the kind of person who makes the ordinary feel extraordinary. Every conversation with you has a little more colour, every adventure has a little more chaos, and every quiet moment has a little more meaning. You don't just show up — you transform every room you walk into.
+If I could choose any universe in the multiverse, I'd pick the one where I get to know you, make countless memories, laugh at the most ridiculous things and get through all of life's little plot twists together.
 
-This website is a small attempt to freeze some of our best moments in time. The photos, the laughter, the inside jokes, the late-night conversations — they all deserve to be remembered, celebrated, and revisited.
+I hope this year brings you all the happiness, adventures and main-character moments you deserve. Never stop being your wonderfully chaotic self.
 
-So here's to another year of you being unapologetically, beautifully, wonderfully you.
+And remember, no matter how many villains or plot twists life throws our way, I'll always be on your team.
 
-Happy Birthday, Shreyanka. The multiverse is brighter because you're in it.
+Happy Birthday, Shreyanka!
 
-With all the love in every timeline,
-Your friend`;
+With great friendship comes great responsibility. Unfortunately, you're stuck with me. ❤️🕷️`;
